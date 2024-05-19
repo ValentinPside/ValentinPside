@@ -36,5 +36,5 @@
   <img width="12" />
 </div>
 <div align="left">
-  Kotlin
+  Kotlin Java
 </div>
