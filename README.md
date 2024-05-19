@@ -20,7 +20,10 @@
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
-
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">  
+ </a>
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="kotlin"  />
   <img width="12" />
