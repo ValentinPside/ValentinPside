@@ -35,8 +35,8 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma"  />
   <img width="12" />
 </div>
-<div align="left">
+
   | Название | Описание                                                        |
 |----------|-----------------------------------------------------------------|
 | build	   | Сборка проекта или изменения внешних зависимостей               |
-</div>
+
