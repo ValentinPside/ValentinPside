@@ -36,8 +36,3 @@
   <img width="12" />
 </div>
 
-  | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="kotlin"  />
-  <img width="12" /> | Описание                                                        |
-|----------|-----------------------------------------------------------------|
-| Kotlin	   | Сборка проекта или изменения внешних зависимостей               |
-
