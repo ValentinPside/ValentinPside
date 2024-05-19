@@ -23,6 +23,7 @@
 
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="kotlin"  />
+  Kotlin
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java"  />
   <img width="12" />
