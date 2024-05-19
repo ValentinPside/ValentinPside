@@ -36,5 +36,5 @@
   <img width="12" />
 </div>
 <div align="left">
-  <h3>Kotlin Java Android</h3>
+  Kotlin Java Android
 </div>
